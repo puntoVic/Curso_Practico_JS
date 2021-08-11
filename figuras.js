@@ -3,11 +3,9 @@ console.group("Cuadrado");
 //const ladoCuadrado = 5;
 
 function perimetroCuadrado(lado){
-    console.log("Los lados del cuadrado miden: " + lado);
     return lado * 4;
 }
 function areaCuadrado(lado){
-    console.log("Los lados del cuadrado miden: " + lado);
     return lado * lado;
 }
 
@@ -24,12 +22,12 @@ console.group("Triángulo");
 // const alturaTriangulo = 5.5;
 function perimetroTriangulo(ladoTriangulo1, ladoTriangulo2, baseTriangulo)
 {
-    console.log("Los lados del triángulo miden: " + ladoTriangulo1 + ", " +  ladoTriangulo2 + ", " + baseTriangulo)
+    //console.log("Los lados del triángulo miden: " + ladoTriangulo1 + ", " +  ladoTriangulo2 + ", " + baseTriangulo)
     return ladoTriangulo1 + ladoTriangulo2 + baseTriangulo;
 }
 function areaTriangulo(baseTriangulo, alturaTriangulo)
 {
-    console.log("La altura del triángulo mide: " + alturaTriangulo)
+    //console.log("La altura del triángulo mide: " + alturaTriangulo)
     return (baseTriangulo * alturaTriangulo) / 2
 }
 
