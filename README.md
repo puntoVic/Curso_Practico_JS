@@ -16,7 +16,7 @@
 - 3: Crear funciones
 - 4: Implementar en HTML
 
-##Taller 3: Promedio, mediana y moda
+##Taller 3: Promedio, mediana y moda. Extra Media Armónica
 
 -Pasos:
 - 1: Definir las fórmulas
