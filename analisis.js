@@ -29,7 +29,7 @@ function medianaSalarios(lista){
     }
 }
 //Mediana General
-const salariosCol = colombia.map(
+const salariosCol = mexico.map(
     function(personita){
         return personita.salary;
     }

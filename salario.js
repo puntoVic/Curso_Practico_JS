@@ -1,81 +1,81 @@
-const colombia = [];
-colombia.push({
+const mexico = [];
+mexico.push({
   name: "Camila",
-  salary: 500,
+  salary: 5000,
 });
-colombia.push({
+mexico.push({
   name: "Nath",
-  salary: 1500,
+  salary: 15000,
 });
-colombia.push({
+mexico.push({
   name: "Luisa",
-  salary: 1800,
+  salary: 18000,
 });
-colombia.push({
+mexico.push({
   name: "Laura",
-  salary: 1000,
+  salary: 10000,
 });
-colombia.push({
+mexico.push({
   name: "Daniela",
-  salary: 2200,
+  salary: 22000,
 });
-colombia.push({
+mexico.push({
   name: "Esperancita",
-  salary: 200,
+  salary: 3000,
 });
-colombia.push({
+mexico.push({
   name: "Carla",
-  salary: 500,
+  salary: 5000,
 });
-colombia.push({
+mexico.push({
   name: "Antonieta",
-  salary: 1500,
+  salary: 15000,
 });
-colombia.push({
+mexico.push({
   name: "Alicia",
-  salary: 1300,
+  salary: 13000,
 });
-colombia.push({
+mexico.push({
   name: "Ana",
-  salary: 2400,
+  salary: 24000,
 });
-colombia.push({
+mexico.push({
   name: "Julia",
-  salary: 3400,
+  salary: 34000,
 });
-colombia.push({
+mexico.push({
   name: "Rosa",
-  salary: 400,
+  salary: 4000,
 });
-colombia.push({
+mexico.push({
   name: "AngÃ©lica",
-  salary: 400,
+  salary: 4000,
 });
-colombia.push({
+mexico.push({
   name: "Tatiana",
-  salary: 400,
+  salary: 4000,
 });
-colombia.push({
+mexico.push({
   name: "Lorena",
-  salary: 600,
+  salary: 6000,
 });
-colombia.push({
+mexico.push({
   name: "Carolina",
-  salary: 1600,
+  salary: 16000,
 });
-colombia.push({
+mexico.push({
   name: "Fernanda",
-  salary: 2600,
+  salary: 26000,
 });
-colombia.push({
+mexico.push({
   name: "Nora",
-  salary: 1000,
+  salary: 10000,
 });
-colombia.push({
+mexico.push({
   name: "Gisselle",
-  salary: 2000,
+  salary: 20000,
 });
-colombia.push({
-  name: "Bill Gates",
-  salary: 100000000,
+mexico.push({
+  name: "Carlos Slim",
+  salary: 10000000,
 });
